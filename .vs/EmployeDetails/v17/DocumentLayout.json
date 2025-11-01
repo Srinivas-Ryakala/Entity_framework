@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Srinivas Ryakala\\Desktop\\dotnetcodes\\EmployeDetails\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC6761C-4482-4165-B09E-5A19E4F34E2E}|EmployeDetails.csproj|c:\\users\\srinivas ryakala\\desktop\\dotnetcodes\\employedetails\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC6761C-4482-4165-B09E-5A19E4F34E2E}|EmployeDetails.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC6761C-4482-4165-B09E-5A19E4F34E2E}|EmployeDetails.csproj|c:\\users\\srinivas ryakala\\desktop\\dotnetcodes\\employedetails\\data\\dbfirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC6761C-4482-4165-B09E-5A19E4F34E2E}|EmployeDetails.csproj|solutionrelative:data\\dbfirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC6761C-4482-4165-B09E-5A19E4F34E2E}|EmployeDetails.csproj|c:\\users\\srinivas ryakala\\desktop\\dotnetcodes\\employedetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC6761C-4482-4165-B09E-5A19E4F34E2E}|EmployeDetails.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC6761C-4482-4165-B09E-5A19E4F34E2E}|EmployeDetails.csproj|c:\\users\\srinivas ryakala\\desktop\\dotnetcodes\\employedetails\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ECC6761C-4482-4165-B09E-5A19E4F34E2E}|EmployeDetails.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC6761C-4482-4165-B09E-5A19E4F34E2E}|EmployeDetails.csproj|c:\\users\\srinivas ryakala\\desktop\\dotnetcodes\\employedetails\\employedetails.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECC6761C-4482-4165-B09E-5A19E4F34E2E}|EmployeDetails.csproj|solutionrelative:employedetails.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Srinivas Ryakala\\Desktop\\dotnetcodes\\EmployeDetails\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Srinivas Ryakala\\Desktop\\dotnetcodes\\EmployeDetails\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:23:50.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbFirstContext.cs",
+              "DocumentMoniker": "C:\\Users\\Srinivas Ryakala\\Desktop\\dotnetcodes\\EmployeDetails\\Data\\DbFirstContext.cs",
+              "RelativeDocumentMoniker": "Data\\DbFirstContext.cs",
+              "ToolTip": "C:\\Users\\Srinivas Ryakala\\Desktop\\dotnetcodes\\EmployeDetails\\Data\\DbFirstContext.cs",
+              "RelativeToolTip": "Data\\DbFirstContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:23:34.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeDetails.csproj",
+              "DocumentMoniker": "C:\\Users\\Srinivas Ryakala\\Desktop\\dotnetcodes\\EmployeDetails\\EmployeDetails.csproj",
+              "RelativeDocumentMoniker": "EmployeDetails.csproj",
+              "ToolTip": "C:\\Users\\Srinivas Ryakala\\Desktop\\dotnetcodes\\EmployeDetails\\EmployeDetails.csproj",
+              "RelativeToolTip": "EmployeDetails.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-31T07:12:45.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Srinivas Ryakala\\Desktop\\dotnetcodes\\EmployeDetails\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Srinivas Ryakala\\Desktop\\dotnetcodes\\EmployeDetails\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T07:03:32.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Srinivas Ryakala\\Desktop\\dotnetcodes\\EmployeDetails\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Srinivas Ryakala\\Desktop\\dotnetcodes\\EmployeDetails\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:03:12.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
